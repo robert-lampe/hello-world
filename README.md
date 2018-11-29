@@ -1,3 +1,3 @@
 # hello-world
-Hello world intro 
+Hello world! 
 I grew up in the desert
